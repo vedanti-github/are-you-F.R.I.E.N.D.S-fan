@@ -1,6 +1,6 @@
 # are you a F.R.I.E.N.D.S fan?
 
-Hello <img src="https://github.com/demaria11/Spark_Projects/blob/main/Hi.gif" width="35px">, How You Doin' ? 😜
+Hello <img src="https://github.com/demaria11/Spark_Projects/blob/main/Hi.gif" width="30px">, How You Doin' ? 😜
 
 wait, does it seems like you have heard this before? 🤔
 
